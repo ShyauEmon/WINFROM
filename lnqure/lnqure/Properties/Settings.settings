@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="lnqure.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AdventureWorksDW2017" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-V1S3I6B\SQLEXPRESS ;Initial Catalog=AdventureWorksDW2017;Integrated Security=True  </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

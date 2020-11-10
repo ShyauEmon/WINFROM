@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lnqure", "lnqure\lnqure.csproj", "{41F681D5-4D9F-4D10-B1B0-F926F9F994F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{8F79416B-9E9C-4E9B-B0B5-7ADCBE9BD3BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F681D5-4D9F-4D10-B1B0-F926F9F994F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F681D5-4D9F-4D10-B1B0-F926F9F994F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F681D5-4D9F-4D10-B1B0-F926F9F994F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F681D5-4D9F-4D10-B1B0-F926F9F994F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F79416B-9E9C-4E9B-B0B5-7ADCBE9BD3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F79416B-9E9C-4E9B-B0B5-7ADCBE9BD3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F79416B-9E9C-4E9B-B0B5-7ADCBE9BD3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F79416B-9E9C-4E9B-B0B5-7ADCBE9BD3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D34015A9-A99A-47BD-9D3B-B3AF0FA4B577}
+	EndGlobalSection
+EndGlobal
